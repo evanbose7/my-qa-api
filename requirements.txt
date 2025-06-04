@@ -1,8 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 requests
 beautifulsoup4
-sentence-transformers
-faiss-cpu
-numpy
-transformers
+python-dotenv
